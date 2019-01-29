@@ -1,0 +1,41 @@
+@CHARSET "ISO-8859-1";
+
+html {
+	height: 100%;
+}
+
+.bg {
+	background-image: url(../images/pexels.jpg);
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+	font-family: verdana;
+	font-size: 25px;
+	color: blue;
+	background: powderblue;
+	padding: 2%;
+	align-items: center;
+}
+
+table {
+	background: #f3f3f3;
+	padding: 3%;
+	border-radius: 15px;
+}
+
+th {
+	font-family: cursive;
+	font-size: 20px;
+	background-color: #4CAF50;
+	color: white;
+}
+
+td {
+	font-family: cursive;
+	font-size: 20px;
+	color: #400040;
+}
